@@ -1,1 +1,15 @@
 
+{
+   "chain": [
+	
+      {
+         "id":"01",
+         "name": "Solana",
+         "icon": "",
+         "description": "third",
+         "author": "Herbert Schildt"
+      },
+	
+   
+   ]
+}
