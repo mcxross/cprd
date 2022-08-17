@@ -4,8 +4,9 @@
       "id": "2563998",
       "name": "Solana",
       "icon": "solanaLogoMark.png",
+      "category": "BASE_SINGLE_CHAIN",
       "description": "Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.",
-      "pluginAuthor": "McXross"
+      "author": "McXross"
     }
   ]
 }
