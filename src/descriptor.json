@@ -3,9 +3,49 @@
     {
       "id": "2563998",
       "name": "Solana",
-      "icon": "solanaLogoMark.png",
+      "icon": "sol.png",
       "category": "BASE_SINGLE_CHAIN",
-      "description": "Solana is a decentralized blockchain built to enable scalable, user-friendly apps for the world.",
+      "description": "Solana Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy programs",
+      "author": "McXross"
+    },
+    {
+      "id": "973259",
+      "name": "Ethereum",
+      "icon": "eth.png",
+      "category": "BASE_SINGLE_CHAIN",
+      "description": "Ethereum Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
+      "author": "McXross"
+    },
+    {
+      "id": "461346",
+      "name": "Concordium",
+      "icon": "ccd.png",
+      "category": "BASE_SINGLE_CHAIN",
+      "description": "Concordium Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
+      "author": "McXross"
+    },
+    {
+      "id": "553749",
+      "name": "Polygon Matic",
+      "icon": "matic.png",
+      "category": "BASE_SINGLE_CHAIN",
+      "description": "Polygon Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
+      "author": "McXross"
+    },
+    {
+      "id": "498478",
+      "name": "Cardano",
+      "icon": "ada.png",
+      "category": "BASE_SINGLE_CHAIN",
+      "description": "Cardano Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
+      "author": "McXross"
+    },
+    {
+      "id": "979878",
+      "name": "Near Protocol",
+      "icon": "near.png",
+      "category": "BASE_SINGLE_CHAIN",
+      "description": "Near Protocol Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
       "author": "McXross"
     }
   ]
