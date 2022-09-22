@@ -4,6 +4,7 @@
       "id": "2563998",
       "name": "Solana",
       "icon": "sol.png",
+      "repo": "",
       "category": "BASE_SINGLE_CHAIN",
       "description": "Solana Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy programs",
       "author": "McXross"
@@ -12,6 +13,7 @@
       "id": "973259",
       "name": "Ethereum",
       "icon": "eth.png",
+      "repo": "",
       "category": "BASE_SINGLE_CHAIN",
       "description": "Ethereum Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
       "author": "McXross"
@@ -20,6 +22,7 @@
       "id": "461346",
       "name": "Concordium",
       "icon": "ccd.png",
+      "repo": "",
       "category": "BASE_SINGLE_CHAIN",
       "description": "Concordium Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
       "author": "McXross"
@@ -28,6 +31,7 @@
       "id": "553749",
       "name": "Polygon Matic",
       "icon": "matic.png",
+      "repo": "",
       "category": "BASE_SINGLE_CHAIN",
       "description": "Polygon Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
       "author": "McXross"
@@ -36,6 +40,7 @@
       "id": "498478",
       "name": "Cardano",
       "icon": "ada.png",
+      "repo": "",
       "category": "BASE_SINGLE_CHAIN",
       "description": "Cardano Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
       "author": "McXross"
@@ -44,6 +49,7 @@
       "id": "979878",
       "name": "Near Protocol",
       "icon": "near.png",
+      "repo": "",
       "category": "BASE_SINGLE_CHAIN",
       "description": "Near Protocol Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
       "author": "McXross"
@@ -52,6 +58,7 @@
       "id": "405204",
       "name": "Elrond",
       "icon": "egld.png",
+      "repo": "",
       "category": "BASE_SINGLE_CHAIN",
       "description": "Elrond Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
       "author": "McXross"
@@ -60,6 +67,7 @@
       "id": "247106",
       "name": "The Open Network",
       "icon": "ton.png",
+      "repo": "",
       "category": "BASE_SINGLE_CHAIN",
       "description": "TON Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
       "author": "McXross"
