@@ -47,6 +47,22 @@
       "category": "BASE_SINGLE_CHAIN",
       "description": "Near Protocol Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
       "author": "McXross"
+    },
+    {
+      "id": "405204",
+      "name": "Elrond",
+      "icon": "egld.png",
+      "category": "BASE_SINGLE_CHAIN",
+      "description": "Elrond Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
+      "author": "McXross"
+    },
+    {
+      "id": "247106",
+      "name": "The Open Network",
+      "icon": "ton.png",
+      "category": "BASE_SINGLE_CHAIN",
+      "description": "TON Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
+      "author": "McXross"
     }
   ]
 }
