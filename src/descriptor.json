@@ -71,6 +71,24 @@
       "category": "BASE_SINGLE_CHAIN",
       "description": "TON Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
       "author": "McXross"
+    },
+    {
+      "id": "246806",
+      "name": "Sui",
+      "icon": "sui.png",
+      "repo": "",
+      "category": "BASE_SINGLE_CHAIN",
+      "description": "Sui Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
+      "author": "McXross"
+    },
+    {
+      "id": "978838",
+      "name": "Aptos",
+      "icon": "apt.png",
+      "repo": "",
+      "category": "BASE_SINGLE_CHAIN",
+      "description": "Aptos Cohesive Plugin. Explorer. Wallet. IDE; build, test, and deploy smart contracts",
+      "author": "McXross"
     }
   ]
 }
